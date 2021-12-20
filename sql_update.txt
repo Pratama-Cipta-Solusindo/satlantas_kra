@@ -1,0 +1,3 @@
+ALTER TABLE `polling` ADD COLUMN `layanan` int(2) NULL AFTER `satuan`;
+ALTER TABLE `responden` ADD COLUMN `layanan` int(2) NULL AFTER `pekerjaan`;
+ALTER TABLE `responden` ADD COLUMN `nilai_ikm` decimal(10, 2) NULL AFTER `signature`;

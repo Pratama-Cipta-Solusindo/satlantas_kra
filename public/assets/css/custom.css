@@ -1,0 +1,38 @@
+.modal {
+  padding: 0 !important; 
+}
+.modal .modal-dialog {
+  width: 100%;
+  max-width: none;
+  height: 100%;
+  margin: 0;
+}
+.modal .modal-content {
+  height: 100%;
+  border: 0;
+  border-radius: 0;
+}
+.modal .modal-body {
+  overflow-y: auto;
+}
+
+.modal-content {
+	background-color: #000;
+}
+
+
+.modal-header{
+	background-color:#fff;
+}
+
+.modal-body {
+	background-color: #000;
+	color: #fff;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+
+.modal-footer{
+	background-color:#fff;
+}
