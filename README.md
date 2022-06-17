@@ -1,1 +1,3 @@
-# setup in config 
+## Setup 
+
+- config.php
